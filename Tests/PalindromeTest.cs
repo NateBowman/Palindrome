@@ -1,4 +1,10 @@
-﻿namespace Palindrome.Tests {
+﻿//  --------------------------------------------------------------------------------------------------------------------
+//     <copyright file="PalindromeTest.cs">
+//         Copyright (c) Nathan Bowman. All rights reserved.
+//         Licensed under the MIT License. See LICENSE file in the project root for full license information.
+//     </copyright>
+//  --------------------------------------------------------------------------------------------------------------------
+namespace Palindrome.Tests {
     using System;
 
     using Microsoft.VisualStudio.TestTools.UnitTesting;
